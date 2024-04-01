@@ -43,3 +43,12 @@ li {
   color: var(--btnFontColor);
   background-color: var(--btnBg);
 }
+
+.main-image {
+  width: 300px;
+  height: auto;
+}
+
+.image-description {
+  display: flex;
+}
